@@ -1205,6 +1205,7 @@ GameObject:
   - component: {fileID: 1629091371}
   - component: {fileID: 1629091370}
   - component: {fileID: 1629091378}
+  - component: {fileID: 1629091379}
   m_Layer: 0
   m_Name: PlayerCube
   m_TagString: Player
@@ -1428,6 +1429,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49756c8c73e7dc84d9119982e0681c7a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1629091379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1629091369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ace951d13c304f4eb04369269f01b88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1669029372
